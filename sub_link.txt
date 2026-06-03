@@ -1,2 +1,2 @@
-vless://d3b07384-d113-4956-a5cc-9c32267e1a3b@20.168.110.20:8085?path=%2Fkillpv2&security=none&encryption=none&type=ws#killpv2_Xray
-hysteria2://killpv2_secret_pass@20.168.110.20:8086?insecure=1&sni=bing.com&alpn=h3#killpv2_SingBox
+vless://d3b07384-d113-4956-a5cc-9c32267e1a3b@20.83.175.228:8085?path=%2Fkillpv2&security=none&encryption=none&type=ws#killpv2_Xray
+hysteria2://killpv2_secret_pass@20.83.175.228:8086?insecure=1&sni=bing.com&alpn=h3#killpv2_SingBox
