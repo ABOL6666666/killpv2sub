@@ -1,2 +1,2 @@
-vless://d3b07384-d113-4956-a5cc-9c32267e1a3b@172.203.7.52:8085?path=%2Fkillpv2&security=none&encryption=none&type=ws#killpv2_Xray
-hysteria2://killpv2_secret_pass@172.203.7.52:8086?insecure=1&sni=bing.com&alpn=h3#killpv2_SingBox
+vless://d3b07384-d113-4956-a5cc-9c32267e1a3b@Tightrope-excavate-sector.ngrok-free.dev:443?path=%2Fkillpv2&security=tls&sni=Tightrope-excavate-sector.ngrok-free.dev&encryption=none&type=ws#killpv2_Xray_Ngrok
+hysteria2://killpv2_secret_pass@Tightrope-excavate-sector.ngrok-free.dev:443?insecure=1&sni=Tightrope-excavate-sector.ngrok-free.dev&alpn=h3#killpv2_SingBox_Ngrok
